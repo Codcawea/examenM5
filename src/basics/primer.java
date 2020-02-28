@@ -4,7 +4,9 @@ public class primer {
 
     public static void main(String[] args) {
 	// TODO Auto-generated method stub
-	System.out.println("hola món");
+	System.out.println("hola mï¿½n");
 
+//Serra Joaquin
+//Porque tenemos que hacer esto por el amor de dios que no ves que voy a suspender jajajajajjajja
 
 }
